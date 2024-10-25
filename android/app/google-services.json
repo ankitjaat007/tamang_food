@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165530529148",
+    "project_id": "tamangfood-e8803",
+    "storage_bucket": "tamangfood-e8803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165530529148:android:c926d53f8f0e8ae61bc8f9",
+        "android_client_info": {
+          "package_name": "com.example.tamang_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5gbXUkrvgn1ys0zqVoGeGV2L0N6K1Ue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

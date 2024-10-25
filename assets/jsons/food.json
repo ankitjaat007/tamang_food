@@ -1,0 +1,69 @@
+[
+    {
+        "rest_id": 1,
+        "food_id": 1,
+        "cat_id": 1,
+        "food_name": "Cookie Sandwich",
+        "description": "Shortbread, chocolate turtle cookies, and red velvet.",
+        "food_img": "assets/images/food1.png",
+        "food_tast": "chinese",
+        "price": 10,
+        "food_type": "Featured_items",
+        "food_rating": 4.5,
+        "food_delivery":20,
+        "top_Cookied": [
+            "Chocolate Chipe",
+            "Cookies and Cream",
+            "Funfetti",
+            "M and M",
+            "Red Velvent",
+            "Peanut Butter",
+            "Snickerdoodle",
+            "White Chocolate Macadamia"
+        ],
+        "bottom_Cookied": [
+            "Chocolate Chip",
+            "Chocolate Chip",
+            "Funfetti",
+            "M and M",
+            "Red Velvet",
+            "Peanut Butter",
+            "Snickerdoodle",
+            "White Chocolate Macadamia"
+        ]
+    },
+    {
+        "rest_id": 1,
+        "cat_id": 1,
+        "food_id": 2,
+        "food_name": "Chow Fun",
+        "description": "Shortbread, chocolate turtle cookies, and red velvet.",
+        "food_img": "assets/images/food2.png",
+        "food_tast": "chinese",
+        "price": 10,
+        "food_type": "Featured_items",
+        "food_rating": 4.5
+    },
+    {
+        "rest_id": 1,
+        "cat_id": 1,
+        "food_id": 3,
+        "food_name": "Dim SUm",
+        "food_img": "assets/images/food3.png",
+        "food_type": "Featured_items"
+    },
+    {
+        "rest_id": 1,
+        "cat_id": 2,
+        "food_id": 4,
+        "food_name": "Mario",
+        "food_img": "assets/images/food4.png"
+    },
+    {
+        "rest_id": 2,
+        "cat_id": 1,
+        "food_id": 5,
+        "food_name": "Mario",
+        "food_img": "assets/images/food5.png"
+    }
+]

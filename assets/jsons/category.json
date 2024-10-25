@@ -1,0 +1,22 @@
+[
+    {
+        "cat_id": 1,
+        "category_name": "Beef & Lamb",
+        "cat_img":"assets/images/cat1.jpg"
+    },
+    {
+        "cat_id": 2,
+        "category_name": "Seafood",
+        "cat_img":"assets/images/cat2.jpg"
+    },
+    {
+        "cat_id": 3,
+        "category_name": "Appetizers",
+        "cat_img":"assets/images/cat3.jpeg"
+    },
+    {
+        "cat_id": 4,
+        "category_name": "Dim Sum",
+        "cat_img":"assets/images/cat4.jpg"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "rest_id": 1,
+        "food_id": 1,
+        "rest_name": "Krispy Creme",
+        "rest_banner": "assets/images/banner1.jpg",
+        "rest_image": [
+            "assets/images/rest_img1.1.png",
+            "assets/images/rest_img1.1.png"
+        ],
+        "rest_address": "St Georgese Terrace, Perth",
+        "rest_location": "Western Australia",
+        "rest_rating": 4.2,
+        "delevery_time": "25 min",
+        "free_delivery": true,
+        "rest_tastService": [
+            "chinese",
+            "American",
+            "Deshifood"
+        ],
+        "rest_type":"Featured_Partners"
+    },
+    {
+        "rest_id": 2,
+        "food_id": 2,        
+        "rest_name": "Mario Italiano",
+        "rest_banner": "assets/images/banner2.jpg",
+        "rest_image": [
+            "assets/images/rest_img2.1.png",
+            "assets/images/rest_img2.1.png"
+        ],
+        "rest_address": "Murray street, Perth",
+        "rest_location": "Western Australia",
+        "rest_rating": 4.2,
+        "delevery_time": "25 min",
+        "free_delivery": true,
+        "rest_type":"Featured_Partners"
+    },
+    {
+        "rest_id": 3,
+        "rest_name": "Tacos Nanchas",
+        "rest_banner": "assets/images/banner3.jpg",
+        "rest_image": [
+            "assets/images/rest_img3.1.png",
+            "assets/images/rest_img3.1.png"
+        ],
+        "rest_address": "Kings Square, Perth",
+        "rest_location": "Western Australia",
+        "rest_rating": 4.5,
+        "delevery_time": "25 min",
+        "free_delivery": true,
+        "rest_type":"Featured_Partners"
+    },
+    {
+        "rest_id": 4,
+        "food_id": 2,
+        "rest_name": "McDonald's",
+        "rest_banner": "assets/images/banner4.jpg",
+        "rest_image": [
+            "assets/images/rest_img4.1.png",
+            "assets/images/rest_img4.1.png"
+        ],
+        "rest_address": "Hay street , Perth City",
+        "rest_location": "California",
+        "rest_rating": 4.5,
+        "delevery_time": "25 min",
+        "free_delivery": true
+    },
+    {
+        "rest_id": 5,
+        "rest_name": "Cafe MayField’s",
+        "rest_image": [
+            "assets/images/rest_img5.1.png",
+            "assets/images/rest_img5.1.png"
+        ],
+        "rest_address": "San Francisco",
+        "rest_location": "California"
+    }
+]
